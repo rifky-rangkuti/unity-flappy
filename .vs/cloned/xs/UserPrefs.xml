@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AA520D9F-FACA-2FE3-60B1-8CB25C64E534}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LogicScript.cs">
+    <Files>
+      <File FileName="Assets/PipeMiddleScript.cs" Line="21" Column="26" />
+      <File FileName="Assets/Scripts/LogicScript.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cloned" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1c198eea-f525-47dd-b758-c526d18045ac" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
